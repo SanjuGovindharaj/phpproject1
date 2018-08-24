@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/PhpProject1/View/todos.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/View/error.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/View/todo.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Model/ValidationException.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Controller/todoController.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/index.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Model/todoGateway.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/todo.sql</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Model/todoService.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/View/todo-form.php</file>
+        </group>
+    </open-files>
+</project-private>
